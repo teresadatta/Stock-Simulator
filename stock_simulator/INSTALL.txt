@@ -1,0 +1,5 @@
+No installation requirements for current use. 
+"make build" builds.
+"make use" opens simulator.  
+"make test" runs OUnit testing.
+"make docs" creates HTML documentation.
